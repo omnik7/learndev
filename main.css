@@ -1,0 +1,30 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #50808E;
+    color: #DDD8C4 ;
+}
+
+a {
+    color: #A3C9A8;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#69A297;
+}
+
+a:hover, a:active {
+    color: #84B59F;
+}
+.center{
+    text-align: center;
+}
+.impact{
+    font-family: fantasy, sans-serif,charcoal, Haettenschweiler, 'Arial Narrow Bold', ;
+}
+.cursive{
+    font-family: cursive;
+}
